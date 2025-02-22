@@ -1,7 +1,5 @@
 <h1 align="center">SOCIAL NEST✨</h1>
 
-About This Course:
-
 - Route Protection
 - Authentication System with JWT
 - User Profile Creation and Updates
